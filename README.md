@@ -1,5 +1,6 @@
 ## Example
 
+https://github.com/PatoFlamejanteTV/PatoFlamejanteTV/blob/main/color.json
 ``` json
 {
   "nameColor": "#4EC47E",
