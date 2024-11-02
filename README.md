@@ -6,6 +6,14 @@
 
 Userscript that changes display name, additional name, and pronouns color based on separate values in a JSON file from an GitHub repository. 
 
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
+
 ## Using / Installing
 
 Click [`this link` (https://github.com/PatoFlamejanteTV/Github-ColorsDotJson/raw/refs/heads/main/src/main.user.js)](https://github.com/PatoFlamejanteTV/Github-ColorsDotJson/raw/refs/heads/main/src/main.user.js), it should open the TamperMonkey Import menu, just accept and go to any page that supports this.
