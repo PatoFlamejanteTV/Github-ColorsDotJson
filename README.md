@@ -1,7 +1,7 @@
 # Github ColorsDotJson
 
 <p align="center">
-  <img alt="GCDJ.png" src="./.github/screenshots/GCDJ.png">
+  <img alt="GCDJ.png" src="https://github.com/PatoFlamejanteTV/Github-ColorsDotJson/blob/main/.github/screenshots/GCDJ.png?raw=true">
 </p>
 
 Userscript that changes display name, additional name, and pronouns color based on separate values in a JSON file from an GitHub repository. 
