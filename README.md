@@ -30,6 +30,7 @@ https://github.com/PatoFlamejanteTV/PatoFlamejanteTV/blob/main/color.json
 ```
 
 Will result in this:
-![image](https://github.com/user-attachments/assets/53fce51a-54f3-4d3c-bab7-dab193d08c26)
+![image](https://github.com/user-attachments/assets/340f3716-3bc0-4351-ba0f-5e15f8e23d7c)
+
 
 https://github.com/user-attachments/assets/20b8e166-eafb-4cc0-9604-af3393cb73df
